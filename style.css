@@ -1,0 +1,171 @@
+.header {
+    padding: 10px;
+    opacity: 0.8;
+    text-align: center;
+    background: #a74d4d;
+    color: white;
+    font-size: 30px;
+    box-sizing: border-box;
+}
+
+.footer {
+
+    padding: 20px;
+    opacity: 0.8;
+    /* text-align: center; */
+    background: grey;
+    color: white;
+    font-size: 50px;
+    height: 280px;
+}
+
+h3 {
+    color: #a74d4d;
+
+}
+
+h4 {
+    color: white;
+    font-size: medium;
+
+}
+
+.button1 {
+    background-color: #a74d4d;
+    opacity: 0.8;
+    color: rgb(250, 245, 245);
+    font-weight: 500;
+    font-size: 16px;
+    width: 110px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    border-color: hsl(0, 0%, 100%);
+
+}
+
+.button2 {
+    background-color: rgb(216, 213, 213);
+    opacity: 1;
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+    width: 110px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    border-color: black;
+
+}
+
+.button3 {
+    background-color: #a74d4d;
+    opacity: 0.8;
+    color: rgb(250, 245, 245);
+    font-weight: 500;
+    font-size: 16px;
+    text-align: left;
+    padding-left: 30px;
+    width: 200px;
+    height: 270px;
+    border: 2px solid black;
+    border-radius: 5px;
+    border-color: hsl(0, 0%, 100%);
+    z-index: -1;
+
+}
+
+.dog {
+
+    margin-left: 10PX;
+}
+
+.dogimg {
+
+    height: 350px;
+    width: 350px;
+    padding-left: 500px;
+    border-left: 10px;
+
+}
+
+.container {
+    padding-left: 450px;
+    opacity: 0.8;
+    display: table;
+    border-color: black;
+    width: 100%
+}
+
+.input1 {
+    width: 550px;
+    height: 30px;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+
+.lable1 {
+
+    background-color: white;
+    padding-left: 25px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 4px;
+    opacity: 0.5;
+}
+
+
+.container {
+
+    width: fit-content;
+}
+
+.Bbox {
+
+    align-items: center;
+
+}
+
+.box {
+    padding-left: 30px;
+    padding-right: 600px;
+    border: 2px solid black;
+
+}
+
+.btn1 {
+
+    margin-left: 220px;
+
+}
+
+.btn2 {
+    margin-left: 200px;
+
+}
+
+.btn2 {
+    margin-right: 200px;
+
+}
+
+.bt1 {
+    margin-left: 200px;
+}
+
+.bt2 {
+    margin-left: 150px;
+}
+
+.bt3 {
+    margin-left: 150px;
+}
+
+.bt4 {
+    margin-left: 150px;
+}
